@@ -1,0 +1,1392 @@
+[
+  {
+    "keyword_id": 1,
+    "faq_id": "Re_001",
+    "keyword": "sign up"
+  },
+  {
+    "keyword_id": 2,
+    "faq_id": "Re_001",
+    "keyword": "register"
+  },
+  {
+    "keyword_id": 3,
+    "faq_id": "Re_001",
+    "keyword": "email"
+  },
+  {
+    "keyword_id": 4,
+    "faq_id": "Re_001",
+    "keyword": "otp"
+  },
+  {
+    "keyword_id": 5,
+    "faq_id": "Re_001",
+    "keyword": "account"
+  },
+  {
+    "keyword_id": 6,
+    "faq_id": "Re_002",
+    "keyword": "verify"
+  },
+  {
+    "keyword_id": 7,
+    "faq_id": "Re_002",
+    "keyword": "verification"
+  },
+  {
+    "keyword_id": 8,
+    "faq_id": "Re_002",
+    "keyword": "identification"
+  },
+  {
+    "keyword_id": 9,
+    "faq_id": "Re_002",
+    "keyword": "identity"
+  },
+  {
+    "keyword_id": 10,
+    "faq_id": "Re_002",
+    "keyword": "SSN"
+  },
+  {
+    "keyword_id": 11,
+    "faq_id": "Re_002",
+    "keyword": "identity verification"
+  },
+  {
+    "keyword_id": 12,
+    "faq_id": "Re_003",
+    "keyword": "recipient"
+  },
+  {
+    "keyword_id": 13,
+    "faq_id": "Re_003",
+    "keyword": "beneficiary"
+  },
+  {
+    "keyword_id": 14,
+    "faq_id": "Re_003",
+    "keyword": "bank"
+  },
+  {
+    "keyword_id": 15,
+    "faq_id": "Re_003",
+    "keyword": "qr"
+  },
+  {
+    "keyword_id": 16,
+    "faq_id": "Re_003",
+    "keyword": "details"
+  },
+  {
+    "keyword_id": 17,
+    "faq_id": "Re_003",
+    "keyword": "personal details"
+  },
+  {
+    "keyword_id": 18,
+    "faq_id": "Re_004",
+    "keyword": "bank"
+  },
+  {
+    "keyword_id": 19,
+    "faq_id": "Re_004",
+    "keyword": "link"
+  },
+  {
+    "keyword_id": 20,
+    "faq_id": "Re_004",
+    "keyword": "bank link"
+  },
+  {
+    "keyword_id": 21,
+    "faq_id": "Re_004",
+    "keyword": "bank verification"
+  },
+  {
+    "keyword_id": 22,
+    "faq_id": "Re_004",
+    "keyword": "plaid"
+  },
+  {
+    "keyword_id": 23,
+    "faq_id": "Re_005",
+    "keyword": "PIN"
+  },
+  {
+    "keyword_id": 24,
+    "faq_id": "Re_005",
+    "keyword": "transaction"
+  },
+  {
+    "keyword_id": 25,
+    "faq_id": "Re_005",
+    "keyword": "security"
+  },
+  {
+    "keyword_id": 26,
+    "faq_id": "Re_005",
+    "keyword": "MPIN"
+  },
+  {
+    "keyword_id": 27,
+    "faq_id": "Re_005",
+    "keyword": "transaction authorization"
+  },
+  {
+    "keyword_id": 28,
+    "faq_id": "Re_005",
+    "keyword": "secure account"
+  },
+  {
+    "keyword_id": 29,
+    "faq_id": "Re_006",
+    "keyword": "send money"
+  },
+  {
+    "keyword_id": 30,
+    "faq_id": "Re_006",
+    "keyword": "funds"
+  },
+  {
+    "keyword_id": 31,
+    "faq_id": "Re_006",
+    "keyword": "amount"
+  },
+  {
+    "keyword_id": 32,
+    "faq_id": "Re_006",
+    "keyword": "delivery"
+  },
+  {
+    "keyword_id": 33,
+    "faq_id": "Re_006",
+    "keyword": "delivery option"
+  },
+  {
+    "keyword_id": 34,
+    "faq_id": "Re_007",
+    "keyword": "mmr"
+  },
+  {
+    "keyword_id": 35,
+    "faq_id": "Re_007",
+    "keyword": "mid market rate"
+  },
+  {
+    "keyword_id": 36,
+    "faq_id": "Re_007",
+    "keyword": "market rate"
+  },
+  {
+    "keyword_id": 37,
+    "faq_id": "Re_007",
+    "keyword": "rate"
+  },
+  {
+    "keyword_id": 38,
+    "faq_id": "Re_007",
+    "keyword": "exchange rate"
+  },
+  {
+    "keyword_id": 39,
+    "faq_id": "Re_008",
+    "keyword": "bank rate"
+  },
+  {
+    "keyword_id": 40,
+    "faq_id": "Re_008",
+    "keyword": "nepal bank"
+  },
+  {
+    "keyword_id": 41,
+    "faq_id": "Re_008",
+    "keyword": "exchange rate"
+  },
+  {
+    "keyword_id": 42,
+    "faq_id": "Re_008",
+    "keyword": "bank buying rate"
+  },
+  {
+    "keyword_id": 43,
+    "faq_id": "Re_009",
+    "keyword": "delivery"
+  },
+  {
+    "keyword_id": 44,
+    "faq_id": "Re_009",
+    "keyword": "delivery options"
+  },
+  {
+    "keyword_id": 45,
+    "faq_id": "Re_009",
+    "keyword": "instant"
+  },
+  {
+    "keyword_id": 46,
+    "faq_id": "Re_009",
+    "keyword": "same day"
+  },
+  {
+    "keyword_id": 47,
+    "faq_id": "Re_009",
+    "keyword": "regular"
+  },
+  {
+    "keyword_id": 48,
+    "faq_id": "Re_009",
+    "keyword": "best deal"
+  },
+  {
+    "keyword_id": 49,
+    "faq_id": "Re_009",
+    "keyword": "receive money"
+  },
+  {
+    "keyword_id": 50,
+    "faq_id": "Re_009",
+    "keyword": "delivery time"
+  },
+  {
+    "keyword_id": 51,
+    "faq_id": "Re_010",
+    "keyword": "delivery"
+  },
+  {
+    "keyword_id": 52,
+    "faq_id": "Re_010",
+    "keyword": "delivery options"
+  },
+  {
+    "keyword_id": 53,
+    "faq_id": "Re_010",
+    "keyword": "delivery time"
+  },
+  {
+    "keyword_id": 54,
+    "faq_id": "Re_010",
+    "keyword": "holiday"
+  },
+  {
+    "keyword_id": 55,
+    "faq_id": "Re_011",
+    "keyword": "business days"
+  },
+  {
+    "keyword_id": 56,
+    "faq_id": "Re_011",
+    "keyword": "weekend"
+  },
+  {
+    "keyword_id": 57,
+    "faq_id": "Re_011",
+    "keyword": "public holidays"
+  },
+  {
+    "keyword_id": 58,
+    "faq_id": "Re_011",
+    "keyword": "delivery time"
+  },
+  {
+    "keyword_id": 59,
+    "faq_id": "Re_012",
+    "keyword": "bank approval"
+  },
+  {
+    "keyword_id": 60,
+    "faq_id": "Re_012",
+    "keyword": "approval request"
+  },
+  {
+    "keyword_id": 61,
+    "faq_id": "Re_012",
+    "keyword": "RTP"
+  },
+  {
+    "keyword_id": 62,
+    "faq_id": "Re_012",
+    "keyword": "bank app"
+  },
+  {
+    "keyword_id": 63,
+    "faq_id": "Re_012",
+    "keyword": "bank request"
+  },
+  {
+    "keyword_id": 64,
+    "faq_id": "Re_013",
+    "keyword": "limits"
+  },
+  {
+    "keyword_id": 65,
+    "faq_id": "Re_013",
+    "keyword": "transaction limit"
+  },
+  {
+    "keyword_id": 66,
+    "faq_id": "Re_013",
+    "keyword": "amount"
+  },
+  {
+    "keyword_id": 67,
+    "faq_id": "Re_013",
+    "keyword": "transfer limit"
+  },
+  {
+    "keyword_id": 68,
+    "faq_id": "Re_014",
+    "keyword": "large value transfers"
+  },
+  {
+    "keyword_id": 69,
+    "faq_id": "Re_014",
+    "keyword": "large value payments"
+  },
+  {
+    "keyword_id": 70,
+    "faq_id": "Re_014",
+    "keyword": "big payments"
+  },
+  {
+    "keyword_id": 71,
+    "faq_id": "Re_015",
+    "keyword": "documents"
+  },
+  {
+    "keyword_id": 72,
+    "faq_id": "Re_015",
+    "keyword": "documents required"
+  },
+  {
+    "keyword_id": 73,
+    "faq_id": "Re_015",
+    "keyword": "transaction"
+  },
+  {
+    "keyword_id": 74,
+    "faq_id": "Re_015",
+    "keyword": "10 lakh"
+  },
+  {
+    "keyword_id": 75,
+    "faq_id": "Re_015",
+    "keyword": "source of fund"
+  },
+  {
+    "keyword_id": 76,
+    "faq_id": "Re_016",
+    "keyword": "bank statement"
+  },
+  {
+    "keyword_id": 77,
+    "faq_id": "Re_016",
+    "keyword": "funds"
+  },
+  {
+    "keyword_id": 78,
+    "faq_id": "Re_016",
+    "keyword": "source of funds"
+  },
+  {
+    "keyword_id": 79,
+    "faq_id": "Re_016",
+    "keyword": "document"
+  },
+  {
+    "keyword_id": 80,
+    "faq_id": "Re_016",
+    "keyword": "document required"
+  },
+  {
+    "keyword_id": 81,
+    "faq_id": "Re_017",
+    "keyword": "status"
+  },
+  {
+    "keyword_id": 82,
+    "faq_id": "Re_017",
+    "keyword": "transaction status"
+  },
+  {
+    "keyword_id": 83,
+    "faq_id": "Re_017",
+    "keyword": "transactions"
+  },
+  {
+    "keyword_id": 84,
+    "faq_id": "Re_017",
+    "keyword": "status of transaction"
+  },
+  {
+    "keyword_id": 85,
+    "faq_id": "Re_018",
+    "keyword": "cancel"
+  },
+  {
+    "keyword_id": 86,
+    "faq_id": "Re_018",
+    "keyword": "refund"
+  },
+  {
+    "keyword_id": 87,
+    "faq_id": "Re_018",
+    "keyword": "cancellation"
+  },
+  {
+    "keyword_id": 88,
+    "faq_id": "Re_018",
+    "keyword": "transaction refund"
+  },
+  {
+    "keyword_id": 89,
+    "faq_id": "Re_018",
+    "keyword": "transaction cancel"
+  },
+  {
+    "keyword_id": 90,
+    "faq_id": "Re_019",
+    "keyword": "verification"
+  },
+  {
+    "keyword_id": 91,
+    "faq_id": "Re_019",
+    "keyword": "verification status"
+  },
+  {
+    "keyword_id": 92,
+    "faq_id": "Re_019",
+    "keyword": "verified"
+  },
+  {
+    "keyword_id": 93,
+    "faq_id": "Re_019",
+    "keyword": "account verification"
+  },
+  {
+    "keyword_id": 94,
+    "faq_id": "Re_020",
+    "keyword": "personal information"
+  },
+  {
+    "keyword_id": 95,
+    "faq_id": "Re_020",
+    "keyword": "email"
+  },
+  {
+    "keyword_id": 96,
+    "faq_id": "Re_020",
+    "keyword": "email address"
+  },
+  {
+    "keyword_id": 97,
+    "faq_id": "Re_020",
+    "keyword": "phone"
+  },
+  {
+    "keyword_id": 98,
+    "faq_id": "Re_020",
+    "keyword": "phone number"
+  },
+  {
+    "keyword_id": 99,
+    "faq_id": "Re_020",
+    "keyword": "address"
+  },
+  {
+    "keyword_id": 100,
+    "faq_id": "Re_021",
+    "keyword": "change password"
+  },
+  {
+    "keyword_id": 101,
+    "faq_id": "Re_021",
+    "keyword": "settings"
+  },
+  {
+    "keyword_id": 102,
+    "faq_id": "Re_021",
+    "keyword": "password"
+  },
+  {
+    "keyword_id": 103,
+    "faq_id": "Re_021",
+    "keyword": "change"
+  },
+  {
+    "keyword_id": 104,
+    "faq_id": "Re_022",
+    "keyword": "change PIN"
+  },
+  {
+    "keyword_id": 105,
+    "faq_id": "Re_022",
+    "keyword": "new PIN"
+  },
+  {
+    "keyword_id": 106,
+    "faq_id": "Re_022",
+    "keyword": "settings"
+  },
+  {
+    "keyword_id": 107,
+    "faq_id": "Re_022",
+    "keyword": "change"
+  },
+  {
+    "keyword_id": 108,
+    "faq_id": "Re_023",
+    "keyword": "bank account"
+  },
+  {
+    "keyword_id": 109,
+    "faq_id": "Re_023",
+    "keyword": "plaid"
+  },
+  {
+    "keyword_id": 110,
+    "faq_id": "Re_023",
+    "keyword": "bank link"
+  },
+  {
+    "keyword_id": 111,
+    "faq_id": "Re_024",
+    "keyword": "recipient"
+  },
+  {
+    "keyword_id": 112,
+    "faq_id": "Re_024",
+    "keyword": "beneficiary"
+  },
+  {
+    "keyword_id": 113,
+    "faq_id": "Re_024",
+    "keyword": "bank"
+  },
+  {
+    "keyword_id": 114,
+    "faq_id": "Re_024",
+    "keyword": "details"
+  },
+  {
+    "keyword_id": 115,
+    "faq_id": "Re_024",
+    "keyword": "personal details"
+  },
+  {
+    "keyword_id": 116,
+    "faq_id": "Re_024",
+    "keyword": "add recipient"
+  },
+  {
+    "keyword_id": 117,
+    "faq_id": "Re_025",
+    "keyword": "delete"
+  },
+  {
+    "keyword_id": 118,
+    "faq_id": "Re_025",
+    "keyword": "edit"
+  },
+  {
+    "keyword_id": 119,
+    "faq_id": "Re_025",
+    "keyword": "delete recipient"
+  },
+  {
+    "keyword_id": 120,
+    "faq_id": "Re_025",
+    "keyword": "edit recipient"
+  },
+  {
+    "keyword_id": 121,
+    "faq_id": "Re_025",
+    "keyword": "recipient's details"
+  },
+  {
+    "keyword_id": 122,
+    "faq_id": "Re_025",
+    "keyword": "remove recipient"
+  },
+  {
+    "keyword_id": 123,
+    "faq_id": "Re_026",
+    "keyword": "delete"
+  },
+  {
+    "keyword_id": 124,
+    "faq_id": "Re_026",
+    "keyword": "close"
+  },
+  {
+    "keyword_id": 125,
+    "faq_id": "Re_026",
+    "keyword": "delete account"
+  },
+  {
+    "keyword_id": 126,
+    "faq_id": "Re_026",
+    "keyword": "close account"
+  },
+  {
+    "keyword_id": 127,
+    "faq_id": "Re_027",
+    "keyword": "transactions"
+  },
+  {
+    "keyword_id": 128,
+    "faq_id": "Re_027",
+    "keyword": "transaction history"
+  },
+  {
+    "keyword_id": 129,
+    "faq_id": "Re_027",
+    "keyword": "past transactions"
+  },
+  {
+    "keyword_id": 130,
+    "faq_id": "Re_028",
+    "keyword": "forgot"
+  },
+  {
+    "keyword_id": 131,
+    "faq_id": "Re_028",
+    "keyword": "forgot password"
+  },
+  {
+    "keyword_id": 132,
+    "faq_id": "Re_028",
+    "keyword": "reset password"
+  },
+  {
+    "keyword_id": 133,
+    "faq_id": "Re_028",
+    "keyword": "password"
+  },
+  {
+    "keyword_id": 134,
+    "faq_id": "Re_029",
+    "keyword": "OTP"
+  },
+  {
+    "keyword_id": 135,
+    "faq_id": "Re_029",
+    "keyword": "OTP not received"
+  },
+  {
+    "keyword_id": 136,
+    "faq_id": "Re_029",
+    "keyword": "OTP issue"
+  },
+  {
+    "keyword_id": 137,
+    "faq_id": "Re_030",
+    "keyword": "secure"
+  },
+  {
+    "keyword_id": 138,
+    "faq_id": "Re_030",
+    "keyword": "privacy"
+  },
+  {
+    "keyword_id": 139,
+    "faq_id": "Re_030",
+    "keyword": "security"
+  },
+  {
+    "keyword_id": 140,
+    "faq_id": "Re_030",
+    "keyword": "safe"
+  },
+  {
+    "keyword_id": 141,
+    "faq_id": "Re_031",
+    "keyword": "personal information"
+  },
+  {
+    "keyword_id": 142,
+    "faq_id": "Re_031",
+    "keyword": "information safety"
+  },
+  {
+    "keyword_id": 143,
+    "faq_id": "Re_031",
+    "keyword": "security"
+  },
+  {
+    "keyword_id": 144,
+    "faq_id": "Re_032",
+    "keyword": "fraud"
+  },
+  {
+    "keyword_id": 145,
+    "faq_id": "Re_032",
+    "keyword": "transaction"
+  },
+  {
+    "keyword_id": 146,
+    "faq_id": "Re_032",
+    "keyword": "suspicious activity"
+  },
+  {
+    "keyword_id": 147,
+    "faq_id": "Re_032",
+    "keyword": "fraud prevention"
+  },
+  {
+    "keyword_id": 148,
+    "faq_id": "Re_033",
+    "keyword": "fraud"
+  },
+  {
+    "keyword_id": 149,
+    "faq_id": "Re_033",
+    "keyword": "suspicious activity"
+  },
+  {
+    "keyword_id": 150,
+    "faq_id": "Re_033",
+    "keyword": "account security"
+  },
+  {
+    "keyword_id": 151,
+    "faq_id": "Re_034",
+    "keyword": "face ID"
+  },
+  {
+    "keyword_id": 152,
+    "faq_id": "Re_034",
+    "keyword": "fingerprint"
+  },
+  {
+    "keyword_id": 153,
+    "faq_id": "Re_034",
+    "keyword": "biometrics"
+  },
+  {
+    "keyword_id": 154,
+    "faq_id": "Re_034",
+    "keyword": "authentication"
+  },
+  {
+    "keyword_id": 155,
+    "faq_id": "Re_035",
+    "keyword": "xuno virtual account"
+  },
+  {
+    "keyword_id": 156,
+    "faq_id": "Re_035",
+    "keyword": "xva"
+  },
+  {
+    "keyword_id": 157,
+    "faq_id": "Re_035",
+    "keyword": "personal account"
+  },
+  {
+    "keyword_id": 158,
+    "faq_id": "Re_035",
+    "keyword": "virtual account"
+  },
+  {
+    "keyword_id": 159,
+    "faq_id": "Re_036",
+    "keyword": "balance"
+  },
+  {
+    "keyword_id": 160,
+    "faq_id": "Re_036",
+    "keyword": "available balance"
+  },
+  {
+    "keyword_id": 161,
+    "faq_id": "Re_036",
+    "keyword": "pending balance"
+  },
+  {
+    "keyword_id": 162,
+    "faq_id": "Re_036",
+    "keyword": "xuno virtual account"
+  },
+  {
+    "keyword_id": 163,
+    "faq_id": "Re_036",
+    "keyword": "xva"
+  },
+  {
+    "keyword_id": 164,
+    "faq_id": "Re_037",
+    "keyword": "add money"
+  },
+  {
+    "keyword_id": 165,
+    "faq_id": "Re_037",
+    "keyword": "load money"
+  },
+  {
+    "keyword_id": 166,
+    "faq_id": "Re_037",
+    "keyword": "funds"
+  },
+  {
+    "keyword_id": 167,
+    "faq_id": "Re_037",
+    "keyword": "load funds"
+  },
+  {
+    "keyword_id": 168,
+    "faq_id": "Re_037",
+    "keyword": "add funds"
+  },
+  {
+    "keyword_id": 169,
+    "faq_id": "Re_037",
+    "keyword": "top-up balance"
+  },
+  {
+    "keyword_id": 170,
+    "faq_id": "Re_037",
+    "keyword": "add balance"
+  },
+  {
+    "keyword_id": 171,
+    "faq_id": "Re_037",
+    "keyword": "balance load"
+  },
+  {
+    "keyword_id": 172,
+    "faq_id": "Re_037",
+    "keyword": "xuno virtual account"
+  },
+  {
+    "keyword_id": 173,
+    "faq_id": "Re_037",
+    "keyword": "xva"
+  },
+  {
+    "keyword_id": 174,
+    "faq_id": "Re_038",
+    "keyword": "load money"
+  },
+  {
+    "keyword_id": 175,
+    "faq_id": "Re_038",
+    "keyword": "add money"
+  },
+  {
+    "keyword_id": 176,
+    "faq_id": "Re_038",
+    "keyword": "add money from bank"
+  },
+  {
+    "keyword_id": 177,
+    "faq_id": "Re_038",
+    "keyword": "multiple loads"
+  },
+  {
+    "keyword_id": 178,
+    "faq_id": "Re_038",
+    "keyword": "multiple banks"
+  },
+  {
+    "keyword_id": 179,
+    "faq_id": "Re_038",
+    "keyword": "more than one bank"
+  },
+  {
+    "keyword_id": 180,
+    "faq_id": "Re_039",
+    "keyword": "limits"
+  },
+  {
+    "keyword_id": 181,
+    "faq_id": "Re_039",
+    "keyword": "load limits"
+  },
+  {
+    "keyword_id": 182,
+    "faq_id": "Re_039",
+    "keyword": "loading funds to xva"
+  },
+  {
+    "keyword_id": 183,
+    "faq_id": "Re_039",
+    "keyword": "limits for loading funds"
+  },
+  {
+    "keyword_id": 184,
+    "faq_id": "Re_040",
+    "keyword": "funds"
+  },
+  {
+    "keyword_id": 185,
+    "faq_id": "Re_040",
+    "keyword": "funds from xva"
+  },
+  {
+    "keyword_id": 186,
+    "faq_id": "Re_040",
+    "keyword": "send money from xva"
+  },
+  {
+    "keyword_id": 187,
+    "faq_id": "Re_040",
+    "keyword": "xva to sncl"
+  },
+  {
+    "keyword_id": 188,
+    "faq_id": "Re_040",
+    "keyword": "sncl to xva"
+  },
+  {
+    "keyword_id": 189,
+    "faq_id": "Re_041",
+    "keyword": "refund from xva"
+  },
+  {
+    "keyword_id": 190,
+    "faq_id": "Re_041",
+    "keyword": "refund"
+  },
+  {
+    "keyword_id": 191,
+    "faq_id": "Re_041",
+    "keyword": "xuno virtual account"
+  },
+  {
+    "keyword_id": 192,
+    "faq_id": "Re_041",
+    "keyword": "xva"
+  },
+  {
+    "keyword_id": 193,
+    "faq_id": "Re_042",
+    "keyword": "send now convert later"
+  },
+  {
+    "keyword_id": 194,
+    "faq_id": "Re_042",
+    "keyword": "sncl"
+  },
+  {
+    "keyword_id": 195,
+    "faq_id": "Re_042",
+    "keyword": "envelope"
+  },
+  {
+    "keyword_id": 196,
+    "faq_id": "Re_042",
+    "keyword": "favourable rates"
+  },
+  {
+    "keyword_id": 197,
+    "faq_id": "Re_042",
+    "keyword": "convert"
+  },
+  {
+    "keyword_id": 198,
+    "faq_id": "Re_043",
+    "keyword": "sncl"
+  },
+  {
+    "keyword_id": 199,
+    "faq_id": "Re_043",
+    "keyword": "send now convert later"
+  },
+  {
+    "keyword_id": 200,
+    "faq_id": "Re_043",
+    "keyword": "sncl envelope"
+  },
+  {
+    "keyword_id": 201,
+    "faq_id": "Re_043",
+    "keyword": "envelope"
+  },
+  {
+    "keyword_id": 202,
+    "faq_id": "Re_043",
+    "keyword": "convert later"
+  },
+  {
+    "keyword_id": 203,
+    "faq_id": "Re_044",
+    "keyword": "sncl"
+  },
+  {
+    "keyword_id": 204,
+    "faq_id": "Re_044",
+    "keyword": "send now convert later"
+  },
+  {
+    "keyword_id": 205,
+    "faq_id": "Re_044",
+    "keyword": "sncl fees"
+  },
+  {
+    "keyword_id": 206,
+    "faq_id": "Re_044",
+    "keyword": "conversion fees"
+  },
+  {
+    "keyword_id": 207,
+    "faq_id": "Re_044",
+    "keyword": "fees"
+  },
+  {
+    "keyword_id": 208,
+    "faq_id": "Re_045",
+    "keyword": "hold"
+  },
+  {
+    "keyword_id": 209,
+    "faq_id": "Re_045",
+    "keyword": "sncl"
+  },
+  {
+    "keyword_id": 210,
+    "faq_id": "Re_045",
+    "keyword": "send now convert later"
+  },
+  {
+    "keyword_id": 211,
+    "faq_id": "Re_045",
+    "keyword": "days"
+  },
+  {
+    "keyword_id": 212,
+    "faq_id": "Re_045",
+    "keyword": "days for holding"
+  },
+  {
+    "keyword_id": 213,
+    "faq_id": "Re_046",
+    "keyword": "sncl"
+  },
+  {
+    "keyword_id": 214,
+    "faq_id": "Re_046",
+    "keyword": "sncl envelope"
+  },
+  {
+    "keyword_id": 215,
+    "faq_id": "Re_046",
+    "keyword": "sncl envelope load"
+  },
+  {
+    "keyword_id": 216,
+    "faq_id": "Re_046",
+    "keyword": "sncl load"
+  },
+  {
+    "keyword_id": 217,
+    "faq_id": "Re_046",
+    "keyword": "load amount"
+  },
+  {
+    "keyword_id": 218,
+    "faq_id": "Re_046",
+    "keyword": "maximum load"
+  },
+  {
+    "keyword_id": 219,
+    "faq_id": "Re_047",
+    "keyword": "sncl conversion"
+  },
+  {
+    "keyword_id": 220,
+    "faq_id": "Re_047",
+    "keyword": "partial"
+  },
+  {
+    "keyword_id": 221,
+    "faq_id": "Re_047",
+    "keyword": "whole"
+  },
+  {
+    "keyword_id": 222,
+    "faq_id": "Re_047",
+    "keyword": "partial conversion"
+  },
+  {
+    "keyword_id": 223,
+    "faq_id": "Re_047",
+    "keyword": "sncl envelope"
+  },
+  {
+    "keyword_id": 224,
+    "faq_id": "Re_047",
+    "keyword": "send now convert later envelope"
+  },
+  {
+    "keyword_id": 225,
+    "faq_id": "Re_047",
+    "keyword": "envelope conversion"
+  },
+  {
+    "keyword_id": 226,
+    "faq_id": "Re_048",
+    "keyword": "sncl conversion"
+  },
+  {
+    "keyword_id": 227,
+    "faq_id": "Re_048",
+    "keyword": "sncl recipient"
+  },
+  {
+    "keyword_id": 228,
+    "faq_id": "Re_048",
+    "keyword": "sncl transaction"
+  },
+  {
+    "keyword_id": 229,
+    "faq_id": "Re_048",
+    "keyword": "convert sncl"
+  },
+  {
+    "keyword_id": 230,
+    "faq_id": "Re_048",
+    "keyword": "sncl delivery"
+  },
+  {
+    "keyword_id": 231,
+    "faq_id": "Re_049",
+    "keyword": "exchange rates"
+  },
+  {
+    "keyword_id": 232,
+    "faq_id": "Re_049",
+    "keyword": "sncl rate"
+  },
+  {
+    "keyword_id": 233,
+    "faq_id": "Re_049",
+    "keyword": "bank rate"
+  },
+  {
+    "keyword_id": 234,
+    "faq_id": "Re_049",
+    "keyword": "sncl conversion"
+  },
+  {
+    "keyword_id": 235,
+    "faq_id": "Re_050",
+    "keyword": "exchange rates"
+  },
+  {
+    "keyword_id": 236,
+    "faq_id": "Re_050",
+    "keyword": "sncl rate"
+  },
+  {
+    "keyword_id": 237,
+    "faq_id": "Re_050",
+    "keyword": "bank rate"
+  },
+  {
+    "keyword_id": 238,
+    "faq_id": "Re_050",
+    "keyword": "sncl conversion"
+  },
+  {
+    "keyword_id": 239,
+    "faq_id": "Re_050",
+    "keyword": "rate conversion"
+  },
+  {
+    "keyword_id": 240,
+    "faq_id": "Re_051",
+    "keyword": "sncl delivery"
+  },
+  {
+    "keyword_id": 241,
+    "faq_id": "Re_051",
+    "keyword": "sncl conversion"
+  },
+  {
+    "keyword_id": 242,
+    "faq_id": "Re_051",
+    "keyword": "envelope delivery"
+  },
+  {
+    "keyword_id": 243,
+    "faq_id": "Re_051",
+    "keyword": "funds delivery"
+  },
+  {
+    "keyword_id": 244,
+    "faq_id": "Re_052",
+    "keyword": "hi"
+  },
+  {
+    "keyword_id": 245,
+    "faq_id": "Re_052",
+    "keyword": "hello"
+  },
+  {
+    "keyword_id": 246,
+    "faq_id": "Re_052",
+    "keyword": "hey"
+  },
+  {
+    "keyword_id": 247,
+    "faq_id": "Re_052",
+    "keyword": "greetings"
+  },
+  {
+    "keyword_id": 248,
+    "faq_id": "Re_053",
+    "keyword": "hi"
+  },
+  {
+    "keyword_id": 249,
+    "faq_id": "Re_053",
+    "keyword": "hello"
+  },
+  {
+    "keyword_id": 250,
+    "faq_id": "Re_053",
+    "keyword": "hey"
+  },
+  {
+    "keyword_id": 251,
+    "faq_id": "Re_053",
+    "keyword": "greetings"
+  },
+  {
+    "keyword_id": 252,
+    "faq_id": "Re_054",
+    "keyword": "hi"
+  },
+  {
+    "keyword_id": 253,
+    "faq_id": "Re_054",
+    "keyword": "hello"
+  },
+  {
+    "keyword_id": 254,
+    "faq_id": "Re_054",
+    "keyword": "hey"
+  },
+  {
+    "keyword_id": 255,
+    "faq_id": "Re_054",
+    "keyword": "greetings"
+  },
+  {
+    "keyword_id": 256,
+    "faq_id": "Re_055",
+    "keyword": "good morning"
+  },
+  {
+    "keyword_id": 257,
+    "faq_id": "Re_055",
+    "keyword": "morning"
+  },
+  {
+    "keyword_id": 258,
+    "faq_id": "Re_055",
+    "keyword": "hello"
+  },
+  {
+    "keyword_id": 259,
+    "faq_id": "Re_056",
+    "keyword": "good afternoon"
+  },
+  {
+    "keyword_id": 260,
+    "faq_id": "Re_056",
+    "keyword": "afternoon"
+  },
+  {
+    "keyword_id": 261,
+    "faq_id": "Re_056",
+    "keyword": "hello"
+  },
+  {
+    "keyword_id": 262,
+    "faq_id": "Re_057",
+    "keyword": "good evening"
+  },
+  {
+    "keyword_id": 263,
+    "faq_id": "Re_057",
+    "keyword": "evening"
+  },
+  {
+    "keyword_id": 264,
+    "faq_id": "Re_057",
+    "keyword": "hello"
+  },
+  {
+    "keyword_id": 279,
+    "faq_id": "Re_58",
+    "keyword": "xuno"
+  },
+  {
+    "keyword_id": 280,
+    "faq_id": "Re_58",
+    "keyword": "what is xuno"
+  },
+  {
+    "keyword_id": 281,
+    "faq_id": "Re_58",
+    "keyword": "about xuno"
+  },
+  {
+    "keyword_id": 282,
+    "faq_id": "Re_58",
+    "keyword": "xuno company"
+  },
+  {
+    "keyword_id": 283,
+    "faq_id": "Re_58",
+    "keyword": "xuno fintech"
+  },
+  {
+    "keyword_id": 284,
+    "faq_id": "Re_58",
+    "keyword": "xuno payments"
+  },
+  {
+    "keyword_id": 285,
+    "faq_id": "Re_58",
+    "keyword": "xuno usa"
+  },
+  {
+    "keyword_id": 286,
+    "faq_id": "Re_58",
+    "keyword": "xuno nepal"
+  },
+  {
+    "keyword_id": 287,
+    "faq_id": "Re_58",
+    "keyword": "xuno transfer"
+  },
+  {
+    "keyword_id": 288,
+    "faq_id": "Re_58",
+    "keyword": "xuno money"
+  },
+  {
+    "keyword_id": 289,
+    "faq_id": "Re_58",
+    "keyword": "xuno remittance"
+  },
+  {
+    "keyword_id": 290,
+    "faq_id": "Re_58",
+    "keyword": "send money with xuno"
+  },
+  {
+    "keyword_id": 291,
+    "faq_id": "Re_58",
+    "keyword": "xuno app"
+  },
+  {
+    "keyword_id": 292,
+    "faq_id": "Re_58",
+    "keyword": "xuno service"
+  }
+]

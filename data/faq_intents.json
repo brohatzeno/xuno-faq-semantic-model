@@ -1,0 +1,408 @@
+[
+  {
+    "faq_id": "Re_001",
+    "category": "Getting Started/Onboarding",
+    "question": "How do I sign up for Xuno?",
+    "answer": "You can download the Xuno app or visit xuno.co, verify your email and set a password to create your account.",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_002",
+    "category": "Getting Started/Onboarding",
+    "question": "How do I verify my identity?",
+    "answer": "On your dashboard, tap the verification banner, then enter your identification details and SSN to complete verification.",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_003",
+    "category": "Getting Started/Onboarding",
+    "question": "How do I add my recipient's details?",
+    "answer": "From your dashboard, go to the recipient's list, add a recipient by scanning a bank QR or entering their bank and personal details.",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_004",
+    "category": "Getting Started/Onboarding",
+    "question": "How do I link my bank account to my Xuno account?",
+    "answer": "Link your bank securely through Plaid by selecting your bank and completing verification.",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_005",
+    "category": "Getting Started/Onboarding",
+    "question": "How do I set my PIN?",
+    "answer": "Once verified, set a 4-digit PIN from your dashboard to authorize transactions.",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_006",
+    "category": "Getting Started/Onboarding",
+    "question": "How do I send money through Xuno?",
+    "answer": "Choose Send Money, enter amount, select delivery option, confirm recipient, and authorize with PIN.",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_007",
+    "category": "Payments/Transfers",
+    "question": "What is MMR?",
+    "answer": "MMR is the mid-point between global buy and sell rates and reflects the real market exchange rate.",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_008",
+    "category": "Payments/Transfers",
+    "question": "What is Bank Rate?",
+    "answer": "Bank Rate is the Nepali bank buying rate used to convert USD to NPR for incoming remittances.",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_009",
+    "category": "Payments/Transfers",
+    "question": "How long does it take for my recipient to receive money?",
+    "answer": "Instant delivers in seconds, Same Day within 24 hours, Regular within 4 to 5 business days, and Best Deal within 7 to 8 business days.",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_010",
+    "category": "Payments/Transfers",
+    "question": "How is the estimated delivery time for my transfer calculated?",
+    "answer": "Delivery time depends on the delivery option, bank processing hours, and public holidays in the US and Nepal.",
+    "match_weight": 4
+  },
+  {
+    "faq_id": "Re_011",
+    "category": "Payments/Transfers",
+    "question": "What are business days?",
+    "answer": "Business days run from Monday to Friday, excluding weekends and public holidays.",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_012",
+    "category": "Payments/Transfers",
+    "question": "I started a transfer in Xuno and received a bank transaction approval request via my banking app. What does this mean?",
+    "answer": "Your transfer uses Real-Time Payments and needs approval from your banking app or bank email to proceed.",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_013",
+    "category": "Payments/Transfers",
+    "question": "Is there a maximum amount I can transfer?",
+    "answer": "Yes, limits apply per transaction, daily, and monthly based on your account.",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_014",
+    "category": "Payments/Transfers",
+    "question": "Can I send more than $75,000?",
+    "answer": "Yes, large-value transfers over $75,000 require contacting Xuno Customer Support.",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_015",
+    "category": "Payments/Transfers",
+    "question": "Why am I asked for documents for transactions over 10 lakh?",
+    "answer": "Nepal Rastra Bank guidelines require source-of-funds documents for transfers over NPR 10,00,000.",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_016",
+    "category": "Payments/Transfers",
+    "question": "What type of document do I provide as source of fund?",
+    "answer": "You can provide a bank statement from the last 3 months or a document that verifies the source of your funds.",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_017",
+    "category": "Payments/Transfers",
+    "question": "How can I check the current status of my transaction?",
+    "answer": "You can track your transfer status from the Transactions page in the app or dashboard.",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_018",
+    "category": "Payments/Transfers",
+    "question": "Can I cancel or refund my transaction?",
+    "answer": "Instant transfers cannot be canceled, and other transfers qualify only if funds are not delivered.",
+    "match_weight": 4
+  },
+  {
+    "faq_id": "Re_019",
+    "category": "Payments/Transfers",
+    "question": "How long will it take to be verified in Xuno?",
+    "answer": "Verification usually completes within 24 hours, with delays only if extra checks are needed.",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_020",
+    "category": "Profile & Settings",
+    "question": "How can I update my personal information (email address, phone number, address)?",
+    "answer": "Contact Customer Support to verify your request and update your details.",
+    "match_weight": 4
+  },
+  {
+    "faq_id": "Re_021",
+    "category": "Profile & Settings",
+    "question": "How do I change my password?",
+    "answer": "Open Settings, select Change Password, and follow the steps to update it.",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_022",
+    "category": "Profile & Settings",
+    "question": "How do I reset my PIN?",
+    "answer": "Go to Settings, select Change PIN, and create a new PIN.",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_023",
+    "category": "Profile & Settings",
+    "question": "Can I add more than one bank account, and how do I do it?",
+    "answer": "You can link up to four active bank accounts from the Banks section using Plaid.",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_024",
+    "category": "Profile & Settings",
+    "question": "How do I add a recipient to my account?",
+    "answer": "Go to Recipients on your dashboard, select Add Recipient, and enter their personal and bank details.",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_025",
+    "category": "Profile & Settings",
+    "question": "How can I edit or delete my recipient's details from my account?",
+    "answer": "Open Recipients, select the three dots next to a recipient, then choose Edit or Delete.",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_026",
+    "category": "Profile & Settings",
+    "question": "How do I delete my account?",
+    "answer": "Delete your account from the mobile app under Profile → My Information → Close Account.",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_027",
+    "category": "Profile & Settings",
+    "question": "How can I view my transaction history?",
+    "answer": "Open Transactions to view recent transfers and apply filters as needed.",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_028",
+    "category": "Profile & Settings",
+    "question": "What do I do if I forget my password?",
+    "answer": "Select Forgot Password on the login screen and reset it using the email sent to you.",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_029",
+    "category": "Profile & Settings",
+    "question": "I am not receiving the OTP on my phone or email. What should I do?",
+    "answer": "Check spam folders and network coverage, if the issue persists, contact Customer Support.",
+    "match_weight": 4
+  },
+  {
+    "faq_id": "Re_030",
+    "category": "Security & Privacy",
+    "question": "Is Xuno secure?",
+    "answer": "Xuno uses encrypted connections and trusted banking partners to keep your account and data secure. You can review the full legal documents here.",
+    "match_weight": 4
+  },
+  {
+    "faq_id": "Re_031",
+    "category": "Security & Privacy",
+    "question": "What does Xuno do to protect my personal information?",
+    "answer": "Your data is securely shared only with required banking partners and stored using encrypted systems.",
+    "match_weight": 4
+  },
+  {
+    "faq_id": "Re_032",
+    "category": "Security & Privacy",
+    "question": "Does Xuno monitor transactions for fraud?",
+    "answer": "All transactions are monitored in real time to detect and prevent suspicious activity.",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_033",
+    "category": "Security & Privacy",
+    "question": "What should I do if I suspect fraud or suspicious activity?",
+    "answer": "Contact Customer Support immediately to secure your account and report the issue.",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_034",
+    "category": "Security & Privacy",
+    "question": "Does Xuno support biometric authentication (Face ID or Fingerprint)?",
+    "answer": "You can use Face ID or fingerprint authentication on supported iOS and Android devices.",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_035",
+    "category": "Xuno Virtual Account (XVA)",
+    "question": "What is a Xuno Virtual Account?",
+    "answer": "A Xuno Virtual Account is a personal account with its own account and routing number, available after verification, used to load and manage funds in Xuno.",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_036",
+    "category": "Xuno Virtual Account (XVA)",
+    "question": "What is the difference between Available Balance and Pending Balance in my Xuno Virtual Account?",
+    "answer": "Available Balance is ready to use, while Pending Balance is still processing and cannot be sent.",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_037",
+    "category": "Xuno Virtual Account (XVA)",
+    "question": "How can I load money into my Xuno Virtual Account?",
+    "answer": "Select Add Money on your dashboard and load funds from a linked bank account, with instant availability for RTP-enabled banks.",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_038",
+    "category": "Xuno Virtual Account (XVA)",
+    "question": "Can I load funds from multiple bank accounts to my Xuno Virtual Account?",
+    "answer": "You can load funds from up to four linked US bank accounts, with the most recent one set as default.",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_039",
+    "category": "Xuno Virtual Account (XVA)",
+    "question": "Is there a limit for loading funds into Xuno Virtual Account?",
+    "answer": "Load limits apply per transaction, daily, and monthly based on your account limits.",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_040",
+    "category": "Xuno Virtual Account (XVA)",
+    "question": "Can I send funds from my Xuno Virtual Account?",
+    "answer": "You can send available funds immediately at live rates or load them into a Send Now Convert Later envelope.",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_041",
+    "category": "Xuno Virtual Account (XVA)",
+    "question": "Can I request a refund from my Xuno Virtual Account?",
+    "answer": "You can request a refund back to your bank account up to your available balance by contacting Customer Support.",
+    "match_weight": 4
+  },
+  {
+    "faq_id": "Re_042",
+    "category": "Send Now Convert Later (SNCL)",
+    "question": "What is Send Now Convert Later (SNCL)?",
+    "answer": "SNCL lets you load your envelope first and choose when to convert it based on favorable exchange rates.",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_043",
+    "category": "Send Now Convert Later (SNCL)",
+    "question": "How does SNCL work?",
+    "answer": "Funds are placed in an SNCL envelope, where you track rates and convert all or part of the amount when ready.",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_044",
+    "category": "Send Now Convert Later (SNCL)",
+    "question": "Is there a fee for using SNCL?",
+    "answer": "There is no fee to load SNCL, and the conversion fee is 99¢ for one time conversion.",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_045",
+    "category": "Send Now Convert Later (SNCL)",
+    "question": "How long can I hold the funds before converting?",
+    "answer": "You can hold SNCL funds for 30 days.",
+    "match_weight": 4
+  },
+  {
+    "faq_id": "Re_046",
+    "category": "Send Now Convert Later (SNCL)",
+    "question": "What is the maximum amount I can load into the SNCL envelope?",
+    "answer": "You can load up to $3,000 into each SNCL envelope.",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_047",
+    "category": "Send Now Convert Later (SNCL)",
+    "question": "Can I convert the funds in parts?",
+    "answer": "You can convert SNCL funds partially over 30 days, subject to daily conversion limits.",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_048",
+    "category": "Send Now Convert Later (SNCL)",
+    "question": "Will my recipient be notified when I send with SNCL?",
+    "answer": "The recipient is notified after the funds are converted and credited to their bank account.",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_049",
+    "category": "Send Now Convert Later (SNCL)",
+    "question": "What happens if exchange rates don't improve?",
+    "answer": "You can convert at the current bank rate at any time.",
+    "match_weight": 4
+  },
+  {
+    "faq_id": "Re_050",
+    "category": "Send Now Convert Later (SNCL)",
+    "question": "What exchange rate will I get when I convert?",
+    "answer": "You receive the real-time bank buying rate at the moment of conversion.",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_051",
+    "category": "Send Now Convert Later (SNCL)",
+    "question": "When are funds delivered after an SNCL conversion?",
+    "answer": "Delivery happens instantly once the SNCL envelope is converted.",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_052",
+    "category": "Greetings",
+    "question": "Hi",
+    "answer": "Hello! How can I help you today?",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_053",
+    "category": "Greetings",
+    "question": "Hello",
+    "answer": "Hi there! How can I assist you today?",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_054",
+    "category": "Greetings",
+    "question": "Hey",
+    "answer": "Hey! What can I do for you today?",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_055",
+    "category": "Greetings",
+    "question": "Good morning",
+    "answer": "Good morning! How can I help you today?",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_056",
+    "category": "Greetings",
+    "question": "Good afternoon",
+    "answer": "Good afternoon! How can I help you today?",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_057",
+    "category": "Greetings",
+    "question": "Good evening",
+    "answer": "Good evening! How can I help you today?",
+    "match_weight": 5
+  },
+  {
+    "faq_id": "Re_58",
+    "category": "About Xuno",
+    "question": "What is Xuno?",
+    "answer": "Xuno is a US-based fintech company that is redefining cross-border payments. We provide a fast, transparent, and cost-effective way to send money from the USA to Nepal, offering a seamless alternative to traditional payment and banking methods.",
+    "match_weight": 10
+  }
+]
