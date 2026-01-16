@@ -1,6 +1,6 @@
 # Xuno FAQ Embedding System (Qdrant Version)
 
-This is the updated FAQ embedding and retrieval system that uses the EmbeddingGemma model from Ollama and stores data in Qdrant vector database.
+This is a streamlined FAQ embedding and retrieval system that uses the EmbeddingGemma model from Ollama and stores data in Qdrant vector database.
 
 ## Directory Structure
 
@@ -9,30 +9,16 @@ embedding/
 ├── src/
 │   ├── embeddings.py                    # Contains the embedding generation logic using Ollama
 │   ├── query_faqs_qdrant.py             # Script to query FAQs from Qdrant vector database
-│   ├── store_enhanced_embeddings_to_qdrant.py  # Enhanced script that combines questions with keywords and stores to Qdrant
-│   └── query_faqs.py                  # Legacy PostgreSQL version (preserved for reference)
-│   └── store_enhanced_embeddings_to_db.py  # Legacy PostgreSQL version (preserved for reference)
+│   └── store_enhanced_embeddings_to_qdrant.py  # Enhanced script that combines questions with keywords and stores to Qdrant
 ├── utils/
-│   ├── qdrant_client.py               # Qdrant client connection functionality
-│   ├── db.py                          # Legacy PostgreSQL connection (preserved for reference)
-│   └── db_utils.py                    # Legacy PostgreSQL utilities (preserved for reference)
+│   └── qdrant_client.py                 # Qdrant client connection functionality
 ├── data/
-│   ├── faq_intents.json               # FAQ data with questions, answers, categories, and match weights
-│   └── faq_keywords.json              # FAQ keyword mappings linking keywords to FAQ IDs
-├── create_qdrant_collection.py        # Script to create Qdrant collection with proper vector settings
-├── requirements.txt                   # Python dependencies
-└── README.md                         # This file
+│   ├── faq_intents.json                 # FAQ data with questions, answers, categories, and match weights
+│   └── faq_keywords.json                # FAQ keyword mappings linking keywords to FAQ IDs
+├── create_qdrant_collection.py          # Script to create Qdrant collection with proper vector settings
+├── requirements.txt                     # Python dependencies
+└── README.md                           # This file
 ```
-
-## Migration from PostgreSQL to Qdrant
-
-This system has been migrated from PostgreSQL with pgvector to Qdrant for improved vector search performance and scalability.
-
-### Key Changes:
-- Storage moved from PostgreSQL to Qdrant vector database
-- Vector search now uses Qdrant's optimized similarity search
-- Maintains all original functionality including keyword boosting and scoring logic
-- Preserves the same EmbeddingGemma model for consistency
 
 ## Setup
 
@@ -73,10 +59,3 @@ QDRANT_URL="your_qdrant_url" QDRANT_API_KEY="your_api_key" python src/query_faqs
 ## Model Information
 
 The project uses the `embeddinggemma:latest` model from Ollama, which generates 768-dimensional embeddings. The enhanced system combines each question with its associated keywords for improved retrieval quality. A similarity threshold of 0.53 is used to filter out low-quality matches.
-
-## Legacy System
-
-The original PostgreSQL implementation is preserved in the codebase for reference:
-- `src/query_faqs.py` - Original PostgreSQL query script
-- `src/store_enhanced_embeddings_to_db.py` - Original PostgreSQL storage script
-- `utils/db.py` and `utils/db_utils.py` - Original PostgreSQL utilities
