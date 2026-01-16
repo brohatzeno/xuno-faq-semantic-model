@@ -141,7 +141,7 @@ def query_faqs(user_query, qdrant_client, top_k=5, min_similarity_threshold=0.4)
 
 def main():
     print("Xuno FAQ Query System (Qdrant Version)")
-    print("Type "quit" or "exit" to exit the program")
+    print('Type "quit" or "exit" to exit the program')
     print("-" * 50)
 
     # Initialize Qdrant client
@@ -157,8 +157,7 @@ def main():
 
     try:
         while True:
-            user_input = input("
-Enter your question: ").strip()
+            user_input = input("\nEnter your question: ").strip()
 
             if user_input.lower() in ["quit", "exit", "q"]:
                 print("Goodbye!")
@@ -174,8 +173,7 @@ Enter your question: ").strip()
                 print("Sorry the query is out of my knowledge base!")
                 continue
 
-            print(f"
-Top {len(results)} similar FAQs:")
+            print(f"\nTop {len(results)} similar FAQs:")
             print("=" * 50)
 
             for i, (similarity, item) in enumerate(results, 1):
@@ -187,9 +185,7 @@ Top {len(results)} similar FAQs:")
                 print()
 
     except KeyboardInterrupt:
-        print("
-
-Goodbye!")
+        print("\n\nGoodbye!")
 
 
 if __name__ == "__main__":
