@@ -11,11 +11,11 @@ embedding/
 │   ├── query_faqs_qdrant.py             # Script to query FAQs from Qdrant vector database
 │   └── store_enhanced_embeddings_to_qdrant.py  # Enhanced script that combines questions with keywords and stores to Qdrant
 ├── utils/
-│   └── qdrant_client.py                 # Qdrant client connection functionality
+│   ├── qdrant_client.py                 # Qdrant client connection functionality
+│   └── create_qdrant_collection.py      # Script to create Qdrant collection with proper vector settings
 ├── data/
 │   ├── faq_intents.json                 # FAQ data with questions, answers, categories, and match weights
 │   └── faq_keywords.json                # FAQ keyword mappings linking keywords to FAQ IDs
-├── create_qdrant_collection.py          # Script to create Qdrant collection with proper vector settings
 ├── requirements.txt                     # Python dependencies
 └── README.md                           # This file
 ```
@@ -33,7 +33,7 @@ embedding/
 
 3. **Set up Qdrant collection**:
    ```bash
-   python create_qdrant_collection.py
+   python utils/create_qdrant_collection.py
    ```
 
 ## Environment Variables
