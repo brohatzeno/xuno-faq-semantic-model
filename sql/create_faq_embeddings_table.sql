@@ -10,7 +10,7 @@ CREATE TABLE IF NOT EXISTS faq_embeddings (
     question TEXT NOT NULL,
     answer TEXT,
     match_weight INTEGER DEFAULT 5,
-    embedding vector(4096),  -- Qwen3 embedding dimension is 4096
+    embedding vector(768),  -- 768-dimensional for embeddinggemma model
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );

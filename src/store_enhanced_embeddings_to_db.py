@@ -79,7 +79,7 @@ def save_enhanced_embeddings_to_db(db_connection, faqs: List[Dict], embeddings: 
     """
     ensure_vector_extension(db_connection)
     ensure_table_schema(db_connection)
-    
+
     for i, (faq, embedding) in enumerate(zip(faqs, embeddings)):
         query = """INSERT INTO faq_embeddings (faq_id, category, question, answer, match_weight, embedding)
 VALUES (%s, %s, %s, %s, %s, %s::vector)
@@ -97,6 +97,21 @@ ON CONFLICT (faq_id) DO UPDATE SET
             faq.get("match_weight", 5),
             embedding
         ))
+
+        # Generate and store keyword embeddings
+        keywords = faq.get("keywords", [])
+        for keyword in keywords:
+            keyword_embedding = generate_embeddings([keyword])[0]  # Generate embedding for the keyword
+            keyword_insert_query = """INSERT INTO faq_keywords (faq_id, keyword, embedding)
+VALUES (%s, %s, %s::vector)
+ON CONFLICT (faq_id, keyword) DO UPDATE SET
+    embedding = EXCLUDED.embedding;"""
+            db_connection.execute_update(keyword_insert_query, (
+                faq.get("faq_id"),
+                keyword,
+                keyword_embedding
+            ))
+
         if (i + 1) % 10 == 0:
             print(f"Processed {i + 1}/{len(faqs)} embeddings...")
     print(f"Successfully saved {len(faqs)} enhanced embeddings to the database.")
@@ -139,7 +154,7 @@ def generate_and_store_enhanced_embeddings(faq_files: List[str]):
         db.disconnect()
 
 def main():
-    faq_files = ["../data/faq_intents.json", "../data/faq_keywords.json"]
+    faq_files = ["./data/faq_intents.json", "./data/faq_keywords.json"]
     generate_and_store_enhanced_embeddings(faq_files)
 
 if __name__ == "__main__":

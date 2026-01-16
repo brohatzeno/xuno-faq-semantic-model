@@ -28,7 +28,10 @@ def ensure_table_schema(db: DatabaseConnection):
                 category TEXT,
                 question TEXT NOT NULL,
                 answer TEXT,
-                embedding vector
+                match_weight INTEGER DEFAULT 5,
+                embedding vector(768),  -- 768-dimensional for embeddinggemma model
+                created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+                updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
             );
         """
         db.execute_update(create_table_query)

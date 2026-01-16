@@ -1388,5 +1388,225 @@
     "keyword_id": 292,
     "faq_id": "Re_58",
     "keyword": "xuno service"
+  },
+  {
+    "keyword_id": 293,
+    "faq_id": "Re_001",
+    "keyword": "create"
+  },
+  {
+    "keyword_id": 294,
+    "faq_id": "Re_001",
+    "keyword": "create account"
+  },
+  {
+    "keyword_id": 295,
+    "faq_id": "Re_001",
+    "keyword": "make account"
+  },
+  {
+    "keyword_id": 296,
+    "faq_id": "Re_001",
+    "keyword": "setup account"
+  },
+  {
+    "keyword_id": 297,
+    "faq_id": "Re_002",
+    "keyword": "identity verification"
+  },
+  {
+    "keyword_id": 298,
+    "faq_id": "Re_002",
+    "keyword": "verify identity"
+  },
+  {
+    "keyword_id": 299,
+    "faq_id": "Re_002",
+    "keyword": "identity proof"
+  },
+  {
+    "keyword_id": 300,
+    "faq_id": "Re_002",
+    "keyword": "ID verification"
+  },
+  {
+    "keyword_id": 301,
+    "faq_id": "Re_006",
+    "keyword": "transfer money"
+  },
+  {
+    "keyword_id": 302,
+    "faq_id": "Re_006",
+    "keyword": "send funds"
+  },
+  {
+    "keyword_id": 303,
+    "faq_id": "Re_006",
+    "keyword": "remittance"
+  },
+  {
+    "keyword_id": 304,
+    "faq_id": "Re_006",
+    "keyword": "wire transfer"
+  },
+  {
+    "keyword_id": 305,
+    "faq_id": "Re_026",
+    "keyword": "close account"
+  },
+  {
+    "keyword_id": 306,
+    "faq_id": "Re_026",
+    "keyword": "remove account"
+  },
+  {
+    "keyword_id": 307,
+    "faq_id": "Re_026",
+    "keyword": "deactivate account"
+  },
+  {
+    "keyword_id": 308,
+    "faq_id": "Re_026",
+    "keyword": "terminate account"
+  },
+  {
+    "keyword_id": 309,
+    "faq_id": "Re_058",
+    "keyword": "about xuno"
+  },
+  {
+    "keyword_id": 310,
+    "faq_id": "Re_058",
+    "keyword": "xuno company"
+  },
+  {
+    "keyword_id": 311,
+    "faq_id": "Re_058",
+    "keyword": "xuno service"
+  },
+  {
+    "keyword_id": 312,
+    "faq_id": "Re_058",
+    "keyword": "xuno app"
+  },
+  {
+    "keyword_id": 313,
+    "faq_id": "Re_030",
+    "keyword": "security"
+  },
+  {
+    "keyword_id": 314,
+    "faq_id": "Re_030",
+    "keyword": "safety"
+  },
+  {
+    "keyword_id": 315,
+    "faq_id": "Re_030",
+    "keyword": "protection"
+  },
+  {
+    "keyword_id": 316,
+    "faq_id": "Re_030",
+    "keyword": "secure"
+  },
+  {
+    "keyword_id": 317,
+    "faq_id": "Re_035",
+    "keyword": "xva"
+  },
+  {
+    "keyword_id": 318,
+    "faq_id": "Re_035",
+    "keyword": "virtual account"
+  },
+  {
+    "keyword_id": 319,
+    "faq_id": "Re_035",
+    "keyword": "xuno virtual account"
+  },
+  {
+    "keyword_id": 320,
+    "faq_id": "Re_035",
+    "keyword": "xuno account"
+  },
+  {
+    "keyword_id": 321,
+    "faq_id": "Re_001",
+    "keyword": "online account"
+  },
+  {
+    "keyword_id": 322,
+    "faq_id": "Re_001",
+    "keyword": "create online account"
+  },
+  {
+    "keyword_id": 323,
+    "faq_id": "Re_001",
+    "keyword": "set up online account"
+  },
+  {
+    "keyword_id": 324,
+    "faq_id": "Re_001",
+    "keyword": "make online account"
+  },
+  {
+    "keyword_id": 325,
+    "faq_id": "Re_026",
+    "keyword": "delete online account"
+  },
+  {
+    "keyword_id": 326,
+    "faq_id": "Re_026",
+    "keyword": "remove online account"
+  },
+  {
+    "keyword_id": 327,
+    "faq_id": "Re_026",
+    "keyword": "close online account"
+  },
+  {
+    "keyword_id": 328,
+    "faq_id": "Re_026",
+    "keyword": "terminate online account"
+  },
+  {
+    "keyword_id": 329,
+    "faq_id": "Re_001",
+    "keyword": "my account"
+  },
+  {
+    "keyword_id": 330,
+    "faq_id": "Re_001",
+    "keyword": "account setup"
+  },
+  {
+    "keyword_id": 331,
+    "faq_id": "Re_001",
+    "keyword": "account creation"
+  },
+  {
+    "keyword_id": 332,
+    "faq_id": "Re_001",
+    "keyword": "user account"
+  },
+  {
+    "keyword_id": 333,
+    "faq_id": "Re_001",
+    "keyword": "account"
+  },
+  {
+    "keyword_id": 334,
+    "faq_id": "Re_001",
+    "keyword": "new account"
+  },
+  {
+    "keyword_id": 335,
+    "faq_id": "Re_001",
+    "keyword": "first account"
+  },
+  {
+    "keyword_id": 336,
+    "faq_id": "Re_001",
+    "keyword": "initial account"
   }
 ]
