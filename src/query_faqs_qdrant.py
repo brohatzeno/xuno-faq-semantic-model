@@ -114,13 +114,24 @@ def query_faqs(user_query, qdrant_client, top_k=5, min_similarity_threshold=0.4)
         out_of_domain_terms = {'dresscode', 'dress', 'code', 'hotdog', 'pasta', 'cooking', 'sunday', 'leaves', 'leave', 'vacation', 'holiday'}
         out_of_domain_matches = query_words_lower.intersection(out_of_domain_terms)
 
-        # Reduce similarity if query contains out-of-domain terms
-        final_similarity = similarity_score
-        if out_of_domain_matches:
-            final_similarity *= 0.7
+        # Calculate semantic relevance based on category matching
+        # If query contains greeting terms, prioritize greeting responses
+        greeting_terms = {'hi', 'hello', 'hey', 'good', 'morning', 'afternoon', 'evening', 'greetings', 'gud', 'mrng', 'afternoon', 'night'}
+        greeting_query = bool(greeting_terms.intersection(query_words_lower))
+        greeting_answer = ('greetings' in faq_question_lower or 'hello' in faq_question_lower or 'hi' in faq_question_lower or 'hey' in faq_question_lower)
 
-        # Apply boost to final similarity
-        final_similarity += boost
+        semantic_relevance_boost = 0.0
+        if greeting_query and greeting_answer:
+            semantic_relevance_boost = 0.3  # Strong boost for matching context
+
+        # Reduce similarity if query contains out-of-domain terms and is not related to the FAQ
+        final_similarity = similarity_score
+        if out_of_domain_matches and not semantic_relevance_boost:
+            final_similarity *= 0.5  # Stronger penalty for out-of-domain terms
+
+        # Apply boost to final similarity with better weighting
+        final_similarity = (similarity_score * 0.6) + (orthographic_similarity * 0.2) + (semantic_relevance_boost * 0.2)
+        final_similarity += boost * 0.1  # Reduce impact of generic boosts
         
         # Only add if final similarity meets threshold
         if final_similarity >= min_similarity_threshold:
@@ -128,6 +139,7 @@ def query_faqs(user_query, qdrant_client, top_k=5, min_similarity_threshold=0.4)
                 'base_similarity': similarity_score,
                 'orthographic_similarity': orthographic_similarity,
                 'boost': boost,
+                'semantic_relevance_boost': semantic_relevance_boost,
                 'faq_data': payload
             }))
             seen_faq_ids.add(faq_id)
@@ -167,7 +179,7 @@ def main():
                 continue
 
             # Find similar FAQs with minimum similarity threshold
-            results = query_faqs(user_input, qdrant_client, top_k=3, min_similarity_threshold=0.53)
+            results = query_faqs(user_input, qdrant_client, top_k=3, min_similarity_threshold=0.45)
 
             if not results:
                 print("Sorry the query is out of my knowledge base!")
